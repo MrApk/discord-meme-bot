@@ -30,4 +30,4 @@ After that, start the application with the token provided as an bot.run("Token")
 For now, this bot only has one command, which send the specified amount of memes to the channel the command
 was posted to 
 
-- ?meme
+- `?meme`
