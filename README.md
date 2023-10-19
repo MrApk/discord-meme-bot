@@ -1,4 +1,16 @@
 # discord-meme-bot
+<p>
+  <a href="https://discord.gg/uJ4SbkZUBa">
+    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
+  </a>
+  </a>
+  <a href="https://www.python.org/downloads/">
+    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Red-Discordbot">
+  </a>
+  <a href="https://pypi.python.org/pypi/discord.py">
+    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/v/discord.py.svg">
+  </a>
+</p>
 This is a lightweight and self-hosted discord bot, which uses https://popcat.xyz/api to post memes.
 
 ## Setup
