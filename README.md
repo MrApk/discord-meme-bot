@@ -1,7 +1,7 @@
 # discord-meme-bot
 <p>
   <a href="https://discord.gg/uJ4SbkZUBa">
-    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
+    <img src="https://discord.com/api/guilds/946054321349492736/widget.png?style=shield" alt="Discord Server">
   </a>
   </a>
   <a href="https://www.python.org/downloads/">
