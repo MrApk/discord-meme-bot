@@ -28,6 +28,6 @@ async def on_ready():
   print('Your bot is online!✅')
 
 
-bot.run('Token')
+bot.run('MTE1MzY2OTYwNTA5MzU1MjIxOA.GN85dW.wBXYNeO6JDL14fFWFcSb7BYY4V_Ta0u7MYV5SU')
 
 #Make By APK
